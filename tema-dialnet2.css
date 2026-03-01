@@ -1,0 +1,195 @@
+/*
+  TEMA DIALNET
+  Basado en Pizarra · acento burdeos
+  Usar con: theme/simple.css
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+
+/* ── Base ─────────────────────────────────────────── */
+
+body {
+  background: #fafaf7;
+}
+
+.reveal {
+  font-family: 'Inter', 'Helvetica Neue', Arial, sans-serif;
+  color: #3a3a3a;
+}
+
+/* ── Titulares ────────────────────────────────────── */
+
+.reveal h1,
+.reveal h2,
+.reveal h3 {
+  font-family: 'Inter', 'Helvetica Neue', Arial, sans-serif;
+  color: #1c1c1c;
+  text-transform: none;
+  letter-spacing: 0.01em;
+}
+
+.reveal h1 {
+  font-size: 1.9em;
+  font-weight: 700;
+  line-height: 1.15;
+}
+
+.reveal h2 {
+  font-size: 1.25em;
+  font-weight: 600;
+  border-bottom: 2px solid #990000;
+  padding-bottom: 0.3em;
+  margin-bottom: 0.75em;
+}
+
+.reveal h3 {
+  font-size: 1em;
+  font-weight: 500;
+  color: #990000;
+}
+
+/* ── Cuerpo ───────────────────────────────────────── */
+
+.reveal p,
+.reveal li {
+  line-height: 1.7;
+}
+
+.reveal ul,
+.reveal ol {
+  margin-top: 0.3em;
+}
+
+.reveal li {
+  margin-bottom: 0.5em;
+}
+
+.reveal p {
+  margin-bottom: 0.5em;
+}
+
+.reveal ul      { list-style: disc; }
+.reveal ul ul   { list-style: circle; }
+
+.reveal strong {
+  color: #1c1c1c;
+  font-weight: 600;
+}
+
+.reveal em {
+  color: #555;
+}
+
+/* ── Blockquote ───────────────────────────────────── */
+
+.reveal blockquote {
+  background: #f4efed;
+  border-left: 4px solid #990000;
+  padding: 0.8em 1.4em;
+  font-style: italic;
+  font-size: 0.95em;
+  color: #444;
+  border-radius: 0 4px 4px 0;
+  width: 86%;
+  margin: 0.6em auto 0.9em;
+  box-shadow: none;
+}
+
+/* ── Links ────────────────────────────────────────── */
+
+.reveal a {
+  color: #990000;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+/* ── Slides de separador ──────────────────────────── */
+
+.reveal .slides section.separador {
+  background: #990000;
+  color: #fff;
+}
+
+.reveal .slides section.separador h2 {
+  color: #fff;
+  border-bottom-color: rgba(255, 255, 255, 0.4);
+  font-size: 1.6em;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+}
+
+.reveal .slides section.separador p {
+  color: rgba(255, 255, 255, 0.75);
+  font-size: 0.85em;
+  margin-top: 0.4em;
+}
+
+/* ── Portada ──────────────────────────────────────── */
+
+.reveal .slides section.portada {
+  background: #fafaf7;
+}
+
+.reveal .slides section.portada h1 {
+  color: #990000;
+}
+
+.reveal .slides section.portada h2 {
+  border-bottom: none;
+  color: #555;
+  font-weight: 400;
+  font-size: 1.1em;
+  margin-bottom: 1em;
+}
+
+.reveal .slides section.portada .meta {
+  margin-top: 1.5em;
+  padding-top: 1em;
+  border-top: 1px solid #ddd;
+  font-size: 0.7em;
+  color: #666;
+}
+
+/* ── Cierre ───────────────────────────────────────── */
+
+.reveal .slides section.cierre {
+  background: #990000;
+  color: #fff;
+}
+
+.reveal .slides section.cierre h2 {
+  color: #fff;
+  border-bottom-color: rgba(255, 255, 255, 0.35);
+}
+
+.reveal .slides section.cierre p,
+.reveal .slides section.cierre a {
+  color: rgba(255, 255, 255, 0.85);
+}
+
+.reveal .slides section.cierre strong {
+  color: #fff;
+}
+
+/* ── Cromo ────────────────────────────────────────── */
+
+.reveal .progress {
+  background-color: #ddd;
+  height: 3px;
+}
+
+.reveal .progress span {
+  background-image: linear-gradient(to right, #bbb 0%, #8b1a2e 100%);
+  background-size: 100vw 3px;
+  background-repeat: no-repeat;
+}
+
+.reveal .controls {
+  color: #990000;
+}
+
+.reveal .slide-number {
+  color: #999;
+  background: transparent;
+  font-size: 0.42em;
+}
