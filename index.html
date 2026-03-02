@@ -18,12 +18,9 @@
   <textarea data-template>
 <!-- .slide: class="portada" -->
 
-
 # Los servicios basados en datos y la construcción de ecosistemas científicos
 
 Dialnet · Dialnet CRIS
-
-
 
 <small>**Eduardo Bergasa Balda** · Fundación Dialnet ·</small>
 
@@ -31,10 +28,13 @@ Dialnet · Dialnet CRIS
 
 <img src="logotipoFundacionDialnetFondoBL.svg" style="height:130px; margin-bottom:0.6em; mix-blend-mode:multiply; display:block; margin-left:auto; margin-right:1.5em">
 
+Note:
+
+Buenos días, como ven por el título de la presentación hoy vamos a hablar de los servicios basados en datos que ofrece la Fundación Dialnet a través de su infraestrctura de información científica, Dialnet y Dialnet CRIS y como la comunidad científica puede beneficiarse de ellos.
 
 ---
 
-<!-- .slide: style="font-size: 0.72em" -->
+<!-- .slide: style="font-size: 0.72em" data-visibility="hidden" -->
 
 ## Estructura de la presentación
 
@@ -74,18 +74,26 @@ Infraestructura de información científica al servicio de la comunidad
   </div>
 </div>
 
+Note: 
+
+Se que muchos de vosotros conocéis bien lo que hace la Fundación Dialnet, pero para aquellos que no venís del ámbito universitario quiero hacer esta pequeña introducción.
+
+Fundación Dialnet dispone de dos grandes servicios:
+- Dialnet: La conocidísima gran base de datos de revistas, tesis, libros qye es referente en la comunidad hispanohablante, con más de 10 millones de registros bibliográficos.
+
+- Dialnet CRIS: Que para algunos no será tan conocido, y que es la plataforma de gestión de la información científica insittucional. Que FD ofrece a universidades y otras organizaciones de investigación.
+
 ---
 
 <!-- .slide: style="font-size: 0.82em" -->
-
 
 ## Dialnet CRIS
 
 *Current Research Information System*
 
-- Sistema de información sobre la investigación de instituciones afiliadas
-- Integra datos de **investigadores, grupos, proyectos y producción científica**
-- Conecta Dialnet con los sistemas institucionales (Sistemas locales, ORCID, DOI…)
+- Sistema de información de la actividad científica institucional
+- Integra datos de **investigadores, grupos, proyectos, financiación y producción científica**
+
 - Base para servicios de valor añadido y análisis bibliométrico
 
 *→ El proveedor de servicios de información científica*
@@ -178,6 +186,9 @@ Note:
 
 De la descripción documental a los servicios sobre datos
 
+Note:
+- Para dar unos buenos servicios basados en datos, lo primero que necesitamos es disponer de un buen dataset. Y para eso es fundamental la calidad del dato, la riqueza de los metadatos, la normalización, el uso de identificadores persistentes, la curación del dato y el mantenimiento de su actualización.
+
 ---
 
 ## ¿Qué datos tenemos?
@@ -191,16 +202,26 @@ De la descripción documental a los servicios sobre datos
 *La calidad y riqueza del dato determina la calidad del servicio*
 
 ---
+<!-- .slide: style="font-size: 0.78em" -->
 
 ## La construcción del dataset
 
-- **Fuentes:**metadatos ricos, normalizados, con PIDs
-- Uso de PIDs
-- Deduplicación y desambiguación
-- **Curación del dato:**
-- Técnicas de IA como NER, clasificación automática ...
+<div style="display:grid; grid-template-columns:1fr 1fr; gap:1em; align-items:center">
+  <div>
 
-- **Reto:** mantener el dato actualizado
+- Múltiples y diversas **fuentes**
+- Uso de **PIDs**
+- Enlazado, deduplicación y desambiguación
+- **Curación del dato:** en origen, y posterior. La colaboración es clave.
+- Técnicas de **IA**: NER, clasificación automática, extracción de kws, caracterización semántica
+
+-> **Reto:** mantener el dato actualizado
+
+  </div>
+  <div style="text-align:center">
+    <img src="diagrama-dataset.svg" style="max-height:360px; object-fit:contain">
+  </div>
+</div>
 
 ---
 
@@ -209,6 +230,10 @@ De la descripción documental a los servicios sobre datos
 ## 03 · Servicios basados en datos
 
 ¿Qué construimos sobre esa infraestructura?
+
+Note:
+¿Y sobre este dataset qué servicios podemos construir? 
+
 
 ---
 
