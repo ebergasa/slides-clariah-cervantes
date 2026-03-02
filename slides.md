@@ -194,7 +194,7 @@ Note:
 - Múltiples y diversas **fuentes**
 - Uso de **PIDs**
 - Enlazado, deduplicación y desambiguación
-- **Curación del dato:** en origen, y posterior. La colaboración es clave.
+- **Curación del dato:** en origen, y posterior. La **colaboración** es clave.
 - Técnicas de **IA**: NER, clasificación automática, extracción de kws, caracterización semántica...
 
 -> **Reto:** mantener el dato actualizado
@@ -218,7 +218,7 @@ Note:
 
 ---
 
-<!-- .slide: style="font-size: 0.8em" -->
+<!-- .slide: style="font-size: 0.73em" -->
 
 
 ## Destinatarios de los servicios
@@ -226,23 +226,27 @@ Note:
 - Investigador
 - Organización que investiga
 - **I**nvestigador **P**rincipal del grupo
-- Responsables de la *política científica*
-- Entidades convocantes de evaluación: ANECA, CNEAI...
+- Responsables de la **política científica**
+- Entidades convocantes de **evaluación*: ANECA, CNEAI...
 - Entidades **financiadoras** de proyectos de investigación
 - Bibliotecas
+- Tejido empresarial
 - Medios de comunicación
 - Sociedad en general
 
 ---
 
+<!-- .slide: style="font-size: 0.8em" -->
+
+
 ## Servicios para el investigador
 
-- *Visibilidad* y difusión de la producción científica
+- **Visibilidad** y difusión de la producción científica
 - Control de la producción científica
-- Interactuar con el sistema, enriqueciendo su perfil y comunicación con la biblioteca
-- Gestión curricular, exportación de datos e informes a medida
-- Facilita acudir a convocatorias de evaluación.
-- Facilita el rendimiento de cuentas y evaluación de proyectos de investigación
+- Interactuar con el sistema, **enriqueciendo su perfil** y comunicación con la biblioteca
+- **Gestión curricular**, exportación de datos e informes a medida
+- Facilita acudir a **convocatorias de evaluación**
+- Facilita el rendimiento de cuentas y **evaluación de proyectos** de investigación
 - Facilidad para el depósito y cumplimiento de política de acceso abierto
 
 Note:
@@ -265,11 +269,11 @@ Note:
 
 ## Servicios para la organización que investiga
 
-- Visibilidad y difusión de la actividad investigadora
-- Control y trazabilidad de la producción científica
-- Herramientas para medir el desempeño y la eficiencia de la investigación. Dashboard
-- Evaluación de investigadores y grupos de investigación
-- Reintegración de los datos en otros sistemas institucionales
+- **Visibilidad y difusión** de la actividad investigadora
+- **Control** y trazabilidad de la producción científica
+- Herramientas para medir el **desempeño** y la eficiencia de la investigación. **Dashboard**
+- **Evaluación** de investigadores y grupos de investigación
+- **Reintegración de los datos** en otros sistemas institucionales
 
 Note:
 
@@ -285,35 +289,35 @@ Note:
 
 ## Para el IP del grupo
 
-- Control de la producción científica del grupo
-- Herramientas para medir el desempeño y la eficiencia de la investigación del grupo
+- **Control de la producción** científica del grupo
+- Herramientas para **medir el desempeño** y la eficiencia de la investigación del grupo
 - Facilita acudir a convocatorias de proyectos y evaluación
 
 ---
 
 ## Para responsables de la política científica
 
-- Información para la toma de decisiones. Cuadros de mando.
+- Información para la toma de decisiones. **Cuadros de mando**.
 - Evaluación de investigadores, grupos, departamentos, áreas
 - Evaluación de proyectos de investigación
 - Evaluación de instituciones de investigación
 - Medición del desempeño, eficiencia y retorno de la investigación
-- Control del cumplimiento de políticas de acceso abierto 
+- Control del cumplimiento de políticas de acceso abierto
 - Análisis de tendencias y áreas emergentes
 
 ---
 
 ## Para entidades convocantes de evaluación
 
-- Permite validar la veracidad de la información aportada
-- Simplifica la gestión de la información aportada, interoperabilidad con sus sistemas de gestión de evaluación, cvn
+- Permite **validar la veracidad** de la información aportada
+- **Simplifica la gestión** de la información aportada, **interoperabilidad** con sus sistemas de gestión de evaluación, cvn
 - Facilita la evaluación de los investigadores y grupos de investigación
 
 ---
 
 ## Para entidades financiadoras de proyectos de investigación
 
-- Simplifica la gestión de la información aportada
+- Permite conocer el retorno de la inversión realizada
 - Facilita la evaluación de los proyectos de investigación
 - Permite medir el impacto de los proyectos de investigación financiados
 
@@ -388,11 +392,10 @@ Lo que nos llevamos de aquí
 ## Conclusiones
 
 <ul>
-  <li class="fragment">Los <strong>datos de calidad</strong> son la base de cualquier servicio de valor</li>
-  <li class="fragment">Dialnet CRIS convierte metadatos en <strong>infraestructura de ecosistema</strong></li>
-  <li class="fragment">La apertura no es un fin, sino una <strong>estrategia de crecimiento colaborativo</strong></li>
-  <li class="fragment">Las bibliotecas son agentes clave en la <strong>construcción de ciencia abierta</strong></li>
-  <li class="fragment">La interoperabilidad es condición sine qua non para el <strong>ecosistema científico</strong></li>
+  <li>Los <strong>datos de calidad</strong> son la base de cualquier servicio de valor</li>
+  <li>Dialnet CRIS convierte metadatos en <strong>infraestructura de ecosistema</strong></li>
+  <li>Las bibliotecas son agentes clave en la <strong>construcción de ciencia abierta</strong></li>
+  <li>La interoperabilidad es condición sine qua non para el <strong>ecosistema científico</strong></li>
 </ul>
 
 ---
