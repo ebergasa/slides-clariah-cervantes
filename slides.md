@@ -195,7 +195,7 @@ Note:
 - Uso de **PIDs**
 - Enlazado, deduplicación y desambiguación
 - **Curación del dato:** en origen, y posterior. La colaboración es clave.
-- Técnicas de **IA**: NER, clasificación automática, extracción de kws, caracterización semántica
+- Técnicas de **IA**: NER, clasificación automática, extracción de kws, caracterización semántica...
 
 -> **Reto:** mantener el dato actualizado
 
@@ -215,7 +215,6 @@ Note:
 
 Note:
 ¿Y sobre este dataset qué servicios podemos construir? 
-
 
 ---
 
@@ -240,9 +239,11 @@ Note:
 
 - *Visibilidad* y difusión de la producción científica
 - Control de la producción científica
-- Gestión curricular
-- Facilita acudir a convocatorias de evaluación
+- Interactuar con el sistema, enriqueciendo su perfil y comunicación con la biblioteca
+- Gestión curricular, exportación de datos e informes a medida
+- Facilita acudir a convocatorias de evaluación.
 - Facilita el rendimiento de cuentas y evaluación de proyectos de investigación
+- Facilidad para el depósito y cumplimiento de política de acceso abierto
 
 Note:
 
@@ -264,22 +265,19 @@ Note:
 
 ## Servicios para la organización que investiga
 
-- Visibilidad y difusión de la producción científica
-- Control de la producción científica
-- Herramientas para medir el desempeño y la eficiencia de la investigación
+- Visibilidad y difusión de la actividad investigadora
+- Control y trazabilidad de la producción científica
+- Herramientas para medir el desempeño y la eficiencia de la investigación. Dashboard
 - Evaluación de investigadores y grupos de investigación
+- Reintegración de los datos en otros sistemas institucionales
 
 Note:
 
 - Permite recoger en una única plataforma el conjunto de publicaciones, textos completos, trabajos académicos, financiación, patentes, indicadores, colaboraciones…; para analizar los resultados mediante informes a medida.
 
-- Sincronizar los sistemas de gestión curricular (SGI) con Dialnet CRIS, para automatizar las cargas y simplificar el trabajo manual.
-
 - Disponer de herramientas para medir la producción, indicadores bibliométricos y de reputación.
 
 - Escaparate para presentar con trasparencia la financiación de estancias, contratos y proyectos entre otros.
-
-- Contribuye a la Ciencia Abierta y a los Objetivos de Desarrollo Sostenible.
 
 - Visión Global y trazabilidad de la actividad investigadora
 
@@ -295,17 +293,20 @@ Note:
 
 ## Para responsables de la política científica
 
-- Información para la toma de decisiones
-- Evaluación de investigadores y grupos de investigación
+- Información para la toma de decisiones. Cuadros de mando.
+- Evaluación de investigadores, grupos, departamentos, áreas
 - Evaluación de proyectos de investigación
 - Evaluación de instituciones de investigación
+- Medición del desempeño, eficiencia y retorno de la investigación
+- Control del cumplimiento de políticas de acceso abierto 
+- Análisis de tendencias y áreas emergentes
 
 ---
 
 ## Para entidades convocantes de evaluación
 
 - Permite validar la veracidad de la información aportada
-- Simplifica la gestión de la información aportada
+- Simplifica la gestión de la información aportada, interoperabilidad con sus sistemas de gestión de evaluación, cvn
 - Facilita la evaluación de los investigadores y grupos de investigación
 
 ---
@@ -318,30 +319,45 @@ Note:
 
 ---
 
+<!-- .slide: style="font-size: 0.7em" -->
+
 ## Para las bibliotecas
 
-- Es una herramienta para los servicios de apoyo a la investigación
-- ...
-- ...
-- Control de la producción científica
-- Les ayuda a cumplir con su misión de facilitar el acceso a la información científica y apoyar a los investigadores en su trabajo.
-- Ayuda a cumplir los principios de ciencia abierta.
-- Les proporciona servicio de repositorio institucional, permitiendo almacenar y difundir la producción científica   de manera más eficiente y controlada
+- Como herramienta para dar mejores *servicios de apoyo* a la investigación
+- *Control de la producción* científica
+- Ayuda a *cumplir los principios de ciencia abierta*
+- Proporciona servicio de *repositorio institucional*, permitiendo almacenar y difundir la producción científica de manera más eficiente y controlada 
+- (o bien) Integración con repositorios institucionales, facilitando el depósito de textos completos y el cumplimiento de políticas de acceso abierto.
+
+Posicionar a la biblioteca como agente clave en la construcción de ciencia abierta.
 
 ---
 
 ## Para la sociedad
 
-- Permite a la sociedad conocer la producción científica de las organizaciones y del país
-- Facilita el acceso a la información científica, lo que puede contribuir a la educación y al desarrollo de la sociedad
+- Permite a la sociedad conocer la producción científica de las *organizaciones y del país*
+- Facilita la comunicación de la ciencia a la sociedad, al proporcionar información verificada y accesible sobre la producción científica y contribuyendo a la educación y al desarrollo de la sociedad
 - Transparencia en la investigación, lo que puede contribuir a una mayor confianza en la ciencia y en los investigadores
 
 ---
 
+## Para el tejido empresarial
+
+- Facilita la identificación de **expertos y grupos** de investigación para colaboración público-privada y **transferencia** de conocimiento
+- Permite **conocer la producción** científica de las organizaciones y del país, lo que puede contribuir a la innovación y al desarrollo económico
+- Facilita el acceso a las **infraestructuras** de investigación
+
+---
+
+<!-- .slide: style="font-size: 0.85em" -->
+
+
 ## Para los medios de comunicación
 
-- Permite a los medios de comunicación conocer la producción científica de las organizaciones y del país
-- Facilita el contacto con los investigadores que están disponibles para entrevistas o para proporcionar información sobre sus investigaciones, lo que puede contribuir a una mejor comunicación de la ciencia a la sociedad
+- Permite a los medios de comunicación **conocer la producción** científica de las organizaciones y del país
+- Acceso a **trayectorias** científicas verificadas
+- Información que **respalda la veracidad** de las noticias científicas, lo que puede contribuir a una mejor comunicación de la ciencia a la sociedad
+- Facilita la localización de **expertos** disponibles para entrevistas o para proporcionar información sobre sus investigaciones, lo que puede contribuir a una mejor comunicación de la ciencia a la sociedad
 
 ---
 
