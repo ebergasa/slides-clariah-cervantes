@@ -393,9 +393,8 @@ Lo que nos llevamos de aquí
 
 <ul>
   <li>Los <strong>datos de calidad</strong> son la base de cualquier servicio de valor</li>
-  <li>Dialnet CRIS convierte metadatos en <strong>infraestructura de ecosistema</strong></li>
+  <li>Dialnet CRIS convierte metadatos en <strong>infraestructura de servicios</strong></li>
   <li>Las bibliotecas son agentes clave en la <strong>construcción de ciencia abierta</strong></li>
-  <li>La interoperabilidad es condición sine qua non para el <strong>ecosistema científico</strong></li>
 </ul>
 
 ---
